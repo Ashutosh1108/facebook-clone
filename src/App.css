@@ -1,0 +1,26 @@
+/* .App {
+  background-color: #F0F2F5;
+  height: auto;
+}
+.app__body {
+  display: flex;
+  background-color: #F0F2F5;
+}
+.body__left {
+  flex: 1;
+}
+.body__right {
+  flex: 1;
+}
+.body__bottom {
+  flex: 1;
+} */
+
+.app {
+  background-color: #f0f2f5;
+}
+
+.app__body {
+  display: flex;
+  background-color: #f0f2f5;
+}
